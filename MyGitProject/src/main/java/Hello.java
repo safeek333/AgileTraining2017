@@ -2,7 +2,7 @@
 public class Hello {
 	
 	public static String hello(){
-		return "Greetings!!";
+		return "Dear User, Greetings!!";
 	}
 	
 	public static void main(String[] args) {
